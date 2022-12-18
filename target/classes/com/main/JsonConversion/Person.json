@@ -1,0 +1,20 @@
+{
+	"People": [
+		{
+			"Person": {
+				"name": "meher",
+				"salary": 4,
+				"age": 45,
+				"car": "bugeti"
+			}
+		},
+		{
+			"Person": {
+				"name": "pandu",
+				"age": 84,
+				"salary": 6723,
+				"car": "nano"
+			}
+		}
+	]
+}

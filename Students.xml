@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+	<student id="1">
+	    <firstName>rahul</firstName>
+	    <lastName>batia</lastName>
+	    <marks>65</marks>
+	    <standard>123</standard>
+	</student>
+	<student id="2">
+	    <firstName>rahula</firstName>
+	    <lastName>batiaa</lastName>
+	    <marks>6</marks>
+	    <standard>12</standard>
+	</student>
+</students>
